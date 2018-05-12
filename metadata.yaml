@@ -1,0 +1,52 @@
+_repo: A-Brief-Account-of-the-Destruction-of-the-Indies--13-Or-a-faithful-NARRATIVE-OF-THE-Horrid-an__20321
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Casas, Bartolomé de las
+    aliases:
+    - De las Casas, Bartolomé
+    - Las Casas, Bartolomé de
+    - Casas, Bartolome de las
+    birthdate: 1484
+    deathdate: 1566
+    gutenberg_agent_id: '9232'
+    url: http://www.gutenberg.org/2009/agents/9232
+    wikipedia: http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_Las_Casas
+description: "A Short Account of the Destruction of the Indies (Spanish: Brevísima\
+  \ relación de la destrucción de las Indias) is an account written by the Spanish\
+  \ Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment\
+  \ of and atrocities committed against the indigenous peoples of the Americas in\
+  \ colonial times and sent to then Prince Philip II of Spain.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2007-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20321'
+  wikidata: Q2924760
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians, Treatment of -- Latin America'
+- !lcc 'F1401'
+- !lcsh 'Spain -- Colonies -- America'
+title: "A Brief Account of the Destruction of the Indies\r\nOr, a faithful NARRATIVE\
+  \ OF THE Horrid and Unexampled Massacres, Butcheries, and all manner of Cruelties,\
+  \ that Hell and Malice could invent, committed by the Popish Spanish Party on the\
+  \ inhabitants of West-India, TOGETHER With the Devastations of several Kingdoms\
+  \ in America by Fire and Sword, for the space of Forty and Two Years, from the time\
+  \ of its first Discovery by them."
+url: http://www.gutenberg.org/ebooks/20321
+wikipedia:
+- https://fr.wikipedia.org/wiki/Brev%C3%ADsima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias
+- https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%B0%E5%BA%A6%E6%AF%80%E6%BB%85%E8%BF%B0%E7%95%A5
+- https://es.wikipedia.org/wiki/Brev%C3%ADsima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias
+- https://en.wikisource.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies
+- https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies
+- https://commons.wikimedia.org/wiki/Category:Brev%C3%ADsima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias
+- https://ca.wikipedia.org/wiki/Brev%C3%ADsima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias
+- https://it.wikipedia.org/wiki/Brevissima_relazione_della_distruzione_delle_Indie
